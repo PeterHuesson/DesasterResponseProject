@@ -54,6 +54,6 @@ Go to http://0.0.0.0:3001/
 
 
 <h1>Licensing</h1>
-Udacity for starter code
-Figure Eight for training data
-MIT
+- Udacity for starter code
+- Figure Eight for training data
+- MIT
