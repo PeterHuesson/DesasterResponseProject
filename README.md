@@ -15,7 +15,7 @@ The project is divided in three steps and structured in the following folders.
 - Merges the two datasets
 - Cleans the data
 - Stores it in a SQLite database
-<br>
+
 <strong>models/train_classifier.py</strong>
 - Loads data from the SQLite database
 - Splits the dataset into training and test sets
@@ -23,6 +23,7 @@ The project is divided in three steps and structured in the following folders.
 - Trains and tunes a model using GridSearchCV
 - Outputs results on the test set
 - Exports the final model as a pickle file
+
 <strong>app/run.py</strong>
 - load data and trained model
 - provides web page that handles user query and displays model results
