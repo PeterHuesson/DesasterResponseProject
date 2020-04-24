@@ -1,6 +1,8 @@
 <h1>Disaster Response Pipeline Project</h1>
 This project provides a web app where an emergency worker can input a new message and get classification results in several categories. The classification model in the backend is trained on real disaster data provided from Figure Eight.
 
+https://github.com/PeterHuesson/DesasterResponseProject
+
 <h1>Installation</h1>
 To run this application Python 3 is required. All needed packages will be imported in each python script.
 
